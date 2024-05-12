@@ -1,0 +1,14 @@
+Coding 4 Fun
+total 52
+-rwxr-xr-x 1 sudhakar sudhakar   75 Apr 29 11:42 simpleTest.py
+-rwxr-xr-x 1 sudhakar sudhakar  249 Apr 29 11:47 simpleConfig.py
+-rwxr-xr-x 1 sudhakar sudhakar  141 Apr 29 12:19 myPython.py
+-rw-rw-r-- 1 sudhakar sudhakar   23 Apr 29 12:19 output
+-rw-rw-r-- 1 sudhakar sudhakar   20 Apr 29 12:19 myerror
+-rw-rw-r-- 1 sudhakar sudhakar   26 Apr 29 12:31 testOne.c
+-rwxrwxr-x 1 sudhakar sudhakar 8168 Apr 29 12:31 a.out
+-rwxr-xr-x 1 sudhakar sudhakar   71 Apr 29 12:33 testOne.py
+-rwxr-xr-x 1 sudhakar sudhakar  305 Apr 29 12:39 myBash.py
+drwxrwxr-x 7 sudhakar sudhakar 4096 Apr 29 12:39 runinfo
+-rw-rw-r-- 1 sudhakar sudhakar   79 Apr 29 12:39 fileTwo.txt
+-rw-rw-r-- 1 sudhakar sudhakar   13 Apr 29 12:39 fileOne.txt
